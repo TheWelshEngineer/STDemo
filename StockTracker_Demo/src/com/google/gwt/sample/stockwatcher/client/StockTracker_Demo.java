@@ -1,5 +1,5 @@
 package com.google.gwt.sample.stockwatcher.client;
-
+// Lorum ipsum mfs
 import com.google.gwt.sample.stockwatcher.shared.FieldVerifier;
 import com.google.gwt.core.client.EntryPoint;
 import com.google.gwt.core.client.GWT;
